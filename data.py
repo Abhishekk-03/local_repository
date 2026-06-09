@@ -23,3 +23,7 @@ data = {
 }
 
 print(data)
+
+#list
+
+lis = [1,2,3,34]
