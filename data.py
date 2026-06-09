@@ -5,3 +5,12 @@ for i in lis:
     print(i)
 print("my code done")
 print("megha")
+
+# Marks checker
+
+num = int(input("Enter your marks"))
+
+if num >= 90 and num <= 100:
+    print("eligible")
+else:
+    print("not eligible")
