@@ -14,3 +14,12 @@ if num >= 90 and num <= 100:
     print("eligible")
 else:
     print("not eligible")
+
+# create DF
+
+data = {
+    "emp_id":[1,2,3],
+    "Emp_name":["A","B","C"]
+}
+
+print(data)
