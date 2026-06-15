@@ -1,29 +1,33 @@
-lis = [5,4,5,6,5,4,3,]
+# lis = [5,4,5,6,5,4,3,]
 
-#run loop
-for i in lis:
-    print(i)
-print("my code done")
-print("megha")
+# #run loop
+# for i in lis:
+#     print(i)
+# print("my code done")
+# print("megha")
 
-# Marks checker
+# # Marks checker
 
-num = int(input("Enter your marks"))
+# num = int(input("Enter your marks"))
 
-if num >= 90 and num <= 100:
-    print("eligible")
-else:
-    print("not eligible")
+# if num >= 90 and num <= 100:
+#     print("eligible")
+# else:
+#     print("not eligible")
 
-# create DF
+# # create DF
 
-data = {
-    "emp_id":[1,2,3],
-    "Emp_name":["A","B","C"]
-}
+# data = {
+#     "emp_id":[1,2,3],
+#     "Emp_name":["A","B","C"]
+# }
 
-print(data)
+# print(data)
 
-#list
+# #list
 
-lis = [1,2,3,34]
+# lis = [1,2,3,34]
+
+print("apple" < "banana")
+
+print(2 * (3 * 2))
